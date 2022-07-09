@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://dev.to/osialoverlord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="osialoverlord" height="30" width="40" /></a>
 <a href="https://twitter.com/osial_overlord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osial_overlord" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/osial-overlord-8a3850244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/osial-overlord-8a3850244/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/osial-overlord-8a3850244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/osial-overlord-8a3850244/" height="30" width="40" /></a>
 <a href="https://discord.gg/z2jP8sX92M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="z2jP8sX92M" height="30" width="40" /></a>
 </p>
 
