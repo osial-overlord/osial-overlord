@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osial-overlord" alt="osial-overlord" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/osial_overlord" target="blank"><img src="https://img.shields.io/twitter/follow/osial_overlord?logo=twitter&style=for-the-badge" alt="osial_overlord" /></a> </p>
+<p align="left"> <a href="https://twitter.com/OsialOverlord" target="blank"><img src="https://img.shields.io/twitter/follow/OsialOverlord?logo=twitter&style=for-the-badge" alt="OsialOverlord" /></a> </p>
 
 - 🔭 I’m currently working on **Orion Prison Core**
 
@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/osialoverlord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="osialoverlord" height="30" width="40" /></a>
-<a href="https://twitter.com/osial_overlord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osial_overlord" height="30" width="40" /></a>
+<a href="https://twitter.com/OsialOverlord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osial_overlord" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/osial-overlord-8a3850244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/osial-overlord-8a3850244/" height="30" width="40" /></a>
 <a href="https://discord.gg/z2jP8sX92M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="z2jP8sX92M" height="30" width="40" /></a>
 </p>
